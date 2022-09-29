@@ -19,8 +19,12 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Kotlin Site](http://kotlinlang.org)
+* [Android Developer Tutorials](http://https://developer.android.com/)
+* [Programiz](https://www.programiz.com/kotlin-programming/)
+* [IntelliJ](https://www.jetbrains.com/help/idea/get-started-with-kotlin.html#new-kotlin-project-no-frameworks)
+
+
 
 # Future Work
 
