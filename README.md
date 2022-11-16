@@ -10,8 +10,6 @@ see and understand how the syntax and logic works for it. Having an app that wil
 both tell the user how to write in Kotlin, then having examples right in its own code
 is the kind of learning material that I know I would appreciate having.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://youtu.be/NRWWJVADlA4)
 
 # Development Environment
